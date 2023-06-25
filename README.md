@@ -1,4 +1,4 @@
-# AndroidInterviewQuestionAnswer
+# Android Interview Question Answer
 
 <div data-v-5e9078c0="" class="unit"><div><h2>🔹 1. What is the purpose of build type in app development?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody">
 
